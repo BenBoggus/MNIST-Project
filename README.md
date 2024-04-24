@@ -1,0 +1,1 @@
+This project takes data from the MNIST data set and runs different types of regression analysis on the data. The results are plotted and displayed as well as returning the accuracy of our prediction model.
